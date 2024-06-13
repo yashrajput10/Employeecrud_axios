@@ -1,0 +1,7 @@
+export const CREATEEMPLOYEE = "CREATEEMPLOYEE";
+
+export const SINGLEEMPLOYEE = "SINGLEEMPLOYEE";
+
+export const UPDATEDATA = 'UPDATEDATA';
+
+export const DELETEEMP = 'DELETEDATA';
